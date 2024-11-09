@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="jinru" unicode="&#58934;" d="M416 128c-8.19 0-16.38 3.12-22.63 9.37-12.5 12.5-12.5 32.76 0 45.26L594.75 384 393.37 585.37c-12.5 12.5-12.5 32.76 0 45.25 12.5 12.5 32.76 12.5 45.25 0l224-224c12.5-12.5 12.5-32.76 0-45.26l-224-224c-6.24-6.24-14.43-9.36-22.62-9.36z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="fanhui" unicode="&#58935;" d="M608 96c-8.19 0-16.38 3.12-22.63 9.37l-256 256c-12.5 12.5-12.5 32.76 0 45.25l256 256c12.5 12.5 32.76 12.5 45.25 0 12.5-12.5 12.5-32.76 0-45.25L397.25 384l233.37-233.37c12.5-12.5 12.5-32.76 0-45.25-6.24-6.26-14.43-9.38-22.62-9.38z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="shandian" unicode="&#58963;" d="M544.768 508.928h187.904L284.16-29.696l149.504 379.392H266.752l166.912 448h323.072l-211.968-288.768z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
